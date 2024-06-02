@@ -1,7 +1,8 @@
+# AI Final Project
 Welcome to the AI Final Project repository! This project contains implementations of three key algorithms developed for the Artificial Intelligence course's final project. These algorithms are applied to solve various tasks in the field of reinforcement learning and search algorithms.
 
-Q-Learning
-Introduction: Q-Learning is a reinforcement learning algorithm used for solving pathfinding problems in Markov Decision Process (MDP) environments. It estimates the value of each state-action pair in a given problem and updates these values based on experience gained from interacting with the environment.
+## Q-Learning
+**Introduction: Q-Learning is a reinforcement learning algorithm used for solving pathfinding problems in Markov Decision Process (MDP) environments. It estimates the value of each state-action pair in a given problem and updates these values based on experience gained from interacting with the environment.
 
 Key Concepts:
 Q-Value Table: Q-Learning uses a Q-Value table to estimate the value of each state-action pair in an MDP. These values are updated through experience gained by interacting with the environment.
