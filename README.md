@@ -8,7 +8,7 @@ Q-Value Table: Q-Learning uses a Q-Value table to estimate the value of each sta
 Exploration and Exploitation: Q-Learning balances exploration (trying new actions) and exploitation (using known actions) to learn optimal strategies.
 Experience Replay: Q-Learning with Experience Replay improves stability and performance by storing and randomly sampling experiences from a replay memory during the Q-Value update process.
 
-The formula for updating the Q-value
+The formula for updating the Q-value:
 Q(s, a) = Q(s, a) + α * [r + γ * max(Q(s', a')) - Q(s, a)]
 
 Advantages:
