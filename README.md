@@ -20,7 +20,7 @@ Welcome to the AI Final Project repository! This project contains implementation
 - Requires a large Q-Value table for environments with many states.
 - Difficulty in choosing values for learning rate (α) and discount factor (γ).
 
-## Online Depth-First Search (DFS)
+## Online Depth-First Search (Online DFS)
 **Introduction:** Online DFS, or Online Depth-First Search, is a variant of the Depth-First Search algorithm designed to operate in environments where the structure of the graph is not known beforehand or is gradually revealed during the search process.
 
 **Key Concepts:**
